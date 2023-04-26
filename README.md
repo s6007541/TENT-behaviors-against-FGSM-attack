@@ -18,7 +18,7 @@ The results of difference between accuracy of benign and accuracy of attacked sa
 
 
 | Attack generated from nth model  | 0 | 320 | 640 |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Src (benign) | 22.3 | 22.3 | 22.3 |
 | Src (attack)     | 22.3 | 22.3 | 22.3 |
 | Src accuracy degrades    | 22.3 | 22.3 | 22.3 |
