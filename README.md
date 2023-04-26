@@ -14,7 +14,11 @@ The diagrams below show the experiment setting.
 
 The results of difference between accuracy of benign and accuracy of attacked samples are shown below.
 
-| method  | Second Header |
-| ------- | ------------- |
-| Src     | Content Cell  |
-| TENT    | Content Cell  |
+| ------- | ------- | 
+| Attack generated from nth model  | Second Header |
+| Src (benign) |  |
+| Src (attack)     |  |
+| Src accuracy degrades    |  |
+| TENT (benign) |  |
+| TENT (attack)     |  |
+| TENT accuracy degrades    |  |
