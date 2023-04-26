@@ -26,3 +26,12 @@ The results of difference between accuracy of benign and accuracy of attacked sa
 | TENT (attack)     | 17.3 | 19.1 | 20.0 | 22.3 | 23.5 | 26.0 | 28.1 | 28.9 | 29.6 | 31.7 | 32.2 | 33.2 | 33.1 | 33.5 | 35.0 | 35.2 | 35.6 | 36.1 | 37.6 | 37.8 | 38.5 | 38.9 | 38.7 | 38.9 | 39.9 | 40.1 | 40.9 | 40.7 | 40.2
 | TENT accuracy degrades    | 248.6 | 48.9 | 49.9 | 48.4 | 47.7 | 45.6 | 43.3 | 43.5 | 43.1 | 41.1 | 40.7 | 39.8 | 39.9 | 39.4 | 38.0 | 38.2 | 38.1 | 37.8 | 36.4 | 36.1 | 34.9 | 35.0 | 35.4 | 35.7 | 34.0 | 33.8 | 32.6 | 32.7 | 33.6
 
+The graph below shows the smaller gap of accuracy degradation from FGSM attack as we adapted model with more benign samples.
+<img width="541" alt="Screenshot 2566-04-26 at 19 34 17" src="https://user-images.githubusercontent.com/31609767/234549898-e03436c9-0372-458a-b7ee-eab9d647195a.png">
+
+We also explore the norm of the gradient of FGSM attack. 
+The graph below shows the smaller norm of gradient from FGSM attack as we adapted model with more benign samples.
+
+<img width="543" alt="Screenshot 2566-04-26 at 19 34 22" src="https://user-images.githubusercontent.com/31609767/234549915-a68cc987-c29c-432b-8dce-176207b015ad.png">
+
+We can conclude that the adapted model become more and more robust to an attack. The more samples the model adapted, the more robust the model to the FGSM attack becomes.
