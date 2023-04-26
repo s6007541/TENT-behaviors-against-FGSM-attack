@@ -13,12 +13,13 @@ The diagrams below show the experiment setting.
 ![Screenshot 2566-04-26 at 17 38 49](https://user-images.githubusercontent.com/31609767/234544114-cfff7581-8412-4463-83cc-d23deef94096.png)
 
 The results of difference between accuracy of benign and accuracy of attacked samples are shown below.
-
-| ------- | ------- | 
 | Attack generated from nth model  | Second Header |
-| Src (benign) |  |
-| Src (attack)     |  |
-| Src accuracy degrades    |  |
-| TENT (benign) |  |
-| TENT (attack)     |  |
-| TENT accuracy degrades    |  |
+
+| --- | --- |
+| Attack generated from nth model  | Second Header |
+| Src (benign) | s |
+| Src (attack)     | s |
+| Src accuracy degrades    | s |
+| TENT (benign) | s |
+| TENT (attack)     | s |
+| TENT accuracy degrades    | s |
