@@ -27,6 +27,7 @@ The results of difference between accuracy of benign and accuracy of attacked sa
 | TENT accuracy degrades    | 248.6 | 48.9 | 49.9 | 48.4 | 47.7 | 45.6 | 43.3 | 43.5 | 43.1 | 41.1 | 40.7 | 39.8 | 39.9 | 39.4 | 38.0 | 38.2 | 38.1 | 37.8 | 36.4 | 36.1 | 34.9 | 35.0 | 35.4 | 35.7 | 34.0 | 33.8 | 32.6 | 32.7 | 33.6
 
 The graph below shows the smaller gap of accuracy degradation from FGSM attack as we adapted model with more benign samples.
+
 <img width="541" alt="Screenshot 2566-04-26 at 19 34 17" src="https://user-images.githubusercontent.com/31609767/234549898-e03436c9-0372-458a-b7ee-eab9d647195a.png">
 
 We also explore the norm of the gradient of FGSM attack. 
