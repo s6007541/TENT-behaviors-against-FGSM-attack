@@ -17,9 +17,8 @@ The results of difference between accuracy of benign and accuracy of attacked sa
 
 
 
-| Contents  | Results |
+| Attack generated from nth model  | 0 | 320 | 640 | 960 | 1280 | 1600 | 1920 | 2240 | 2560 | 2880 | 3200 | 3520 | 3840 | 4160 | 4480 | 4800 | 5120 | 5440 | 5760 | 6080 | 6400 | 6720 | 7040 | 7360 | 7680 | 8000 | 8320 | 8640 | 8960 |
 | --- | --- |
-| Attack generated from nth model  | Second Header |
 | Src (benign) | s |
 | Src (attack)     | s |
 | Src accuracy degrades    | s |
