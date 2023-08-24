@@ -1,4 +1,4 @@
-# TENT-behaviors-against-FGSM-attack
+# TENT's behaviors against FGSM attack
 This project mainly observed the result of one of the common baseline of test time adaptation method, TENT.
 Tent: Fully Test-time Adaptation by Entropy Minimization
 https://arxiv.org/abs/2006.10726
